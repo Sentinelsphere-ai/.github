@@ -183,5 +183,5 @@ Stay updated on our latest features, research tips, and platform updates.
 
 <p align="center">
   <em>© 2026 SentinelSphere AI. All rights reserved.</em><br />
-  <em>Built with ❤️ in Nairobi, Kenya.</em>
+  <em>Built with ❤️ .</em>
 </p>
